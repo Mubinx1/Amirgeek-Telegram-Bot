@@ -1,9 +1,9 @@
 <?php
 return [
-    'bot_token' => '7730405713:AAHNWRfYCYa1X8BMo-hLcakHnyFRgffLciA',
-    'bot_username' => 'Amirgeekbot',
+    'bot_token' => '9021616892:AAFt1tkxDcNufDIWmd3h7DNxoY5nZxm8Xvo',
+    'bot_username' => 'Downloadingusbot',
     'admin_ids' => [
-        7440711416
+        1888823625
     ],
     'webhook_url' => 'https://your-domain.com/bot/bot.php', // این را با آدرس دامنه خود جایگزین کنید
     'database' => [
